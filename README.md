@@ -27,3 +27,5 @@ https://www.itl.nist.gov/div898/handbook/prc/section1/prc16.htm
 
 https://archive.siam.org/meetings/sdm10/tutorial3.pdf
 
+A good read : https://www.linkedin.com/feed/update/urn:li:activity:6665828751080861696/
+
