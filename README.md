@@ -11,12 +11,19 @@ An outlier is an observation that lies an abnormal distance from other values in
 As mentioned above , an outlier is a data point stands out from the usual crowd. So many at times one can detect one simply by seeing the visualizations.
 And when it's not possible to see from the naked eye, we perform mathematical tricks for the same.These techniques/ tricks are mentioned below.
 
-# Ways discussed for detecting outlier.
+# Simple Ways discussed for detecting outlier.
    
     1.Percentile
     
     2.Scatter Plot
     
-    3.
+    3.By using 3 Standard Deviation
     
-    4.
+    4.With the help of Z test
+    
+# Resourecs
+
+https://www.itl.nist.gov/div898/handbook/prc/section1/prc16.htm
+
+https://archive.siam.org/meetings/sdm10/tutorial3.pdf
+
